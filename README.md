@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hritikkesharwani
 - 👀 I’m interested in Web Development(Mern stack)
 - 🌱 I’m currently learning Backend development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Frontend Development
 - 📫 How to reach me sanjukesharwani2000@gmail.com
 
 <!---
